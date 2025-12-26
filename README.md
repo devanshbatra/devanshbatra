@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Telecom Billing Software**
+ 🔭 I’m currently working on **Telecom Billing Software** - Yes, the thing behind your phone bill ;-)
  
  🌱 I’m currently learning **Java, Spring Boot, Distributed Computing**
 
